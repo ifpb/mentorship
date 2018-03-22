@@ -26,10 +26,10 @@ Meu objetivo é ajudar meus pupilos na área de Front End, com ênfase nessas á
 
 ## Links
 
-* [Portfolio](lucasfrosty.github.io)
-* [Facebook](www.facebook.com/lucasfrosty)
-* [Twitter](www.twitter.com/lucasfrosty)
-* [LinkedIn](www.linkedin.com/lucasfrosty)
+* [Portfolio](lucasfrosty.github.io/)
+* [Facebook](www.facebook.com/lucasfrosty/)
+* [Twitter](www.twitter.com/lucasfrosty/)
+* [LinkedIn](www.linkedin.com/lucasfrosty/)
 * [Medium](https://medium.com/@lucasfrosty/)
 
 ## Pupilos(as)
