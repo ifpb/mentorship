@@ -7,7 +7,7 @@ Lucas Ferreira
 ## Perfil
 
 Ex-estudante de Ciência da Computação pela UFPB, atualmente no 2° período de TSI.
-Trabalhei na [1STi](https://github.com/1sti/) durante 7 meses como Front End Developer com foco em Javascript e React. Atualmente estou de malas prontas pro Canadá onde trabalharei também como Front End pela [Shopify](https://github.com/Shopify/).
+Trabalhei na [1STi](https://github.com/1sti/) durante 7 meses como Front End Developer com foco em Javascript e React. Atualmente estou de malas prontas pro Canadá onde trabalharei também como Front End pela [Shopify](https://github.com/Shopify/).  
 Ah, também sou entusiasta nas áreas de UX e GraphQL.
 
 ## Tecnologias que irá Mentorar
@@ -22,7 +22,7 @@ Meu objetivo é ajudar meus pupilos na área de Front End, com ênfase nessas á
 * UX\*
 * GraphQL\*
 
-\*: essas áreas eu ainda tenho pouco (ou nenhum) domínio, então seria uma boa oportunidade para aprendermos juntos em algum momento.
+###### \*: essas áreas eu ainda tenho pouco (ou nenhum) domínio, então seria uma boa oportunidade para aprendermos juntos em algum momento.
 
 ## Links
 
