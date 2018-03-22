@@ -14,19 +14,19 @@ Mas obviamente que cada mentor terá sua autonomia para trabalhar e ajudar seus 
 # Mentoria vs Monitoria
 Diferente de uma Monitoria que é algo mais geral e voltado para todos os alunos de uma determinada disciplina, a Mentoria visa ajudar as pessoas de forma mais individual e em uma(s) determinada(s) área(s) que muitas vezes não estão relacionados com uma disciplina específica.
 
-A monitoria uma experiência de ensino muito mais generalizada, porém limitada a um determinado assunto, enquanto a Mentoria é algo mais individual e o mentor tem a possibilidade de abordar os assuntos que quiser da forma que quiser.
+A monitoria é uma experiência de ensino muito mais generalizada, porém limitada a um determinado assunto, enquanto a Mentoria é algo mais individual e o mentor tem a possibilidade de abordar os assuntos que quiser da forma que quiser.
 
 # Quero ser um Mentor
-TODO:
+[Instruções sobre como se tornar um mentor](#)
 
 # Quero ser um Pupilo
-TODO:
+[Instruções sobre como se tornar um pupilo](#)
 
 # Lista de Mentores
-TODO:
+[Clique aqui para ver a lista de mentores](#)
 
 # Lista de Pupilos
-TODO:
+[Clique aqui para ver a lista de pupilos](#)
 
 # Dúvidas, sugestões, feedbacks, etc
 
