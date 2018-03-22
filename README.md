@@ -18,6 +18,9 @@ Diferente de uma Monitoria que é algo mais geral e voltado para todos os alunos
 
 A monitoria é uma experiência de ensino muito mais generalizada, porém limitada a um determinado assunto, enquanto a Mentoria é algo mais individual e o mentor tem a possibilidade de abordar os assuntos que quiser da forma que quiser.
 
+<br>
+<br>
+
 # Quero ser um Mentor
 
 Todas as informações sobre como se tornar um mentor, bem como outras informações sobre o processo, acesse o link abaixo:
@@ -30,6 +33,9 @@ Todas as informações sobre como se tornar um pupilo, bem como outras informaç
 
 [Instruções sobre como se tornar um pupilo](https://github.com/ifpb/mentorship/wiki/Instru%C3%A7%C3%B5es-para-Pupilos)
 
+<br>
+<br>
+
 # Lista de Mentores
 
 [Clique aqui para ver a lista de mentores](https://github.com/ifpb/mentorship/tree/master/perfis/mentores)
@@ -37,6 +43,9 @@ Todas as informações sobre como se tornar um pupilo, bem como outras informaç
 # Lista de Pupilos
 
 [Clique aqui para ver a lista de pupilos](https://github.com/ifpb/mentorship/tree/master/perfis/pupilos)
+
+<br>
+<br>
 
 # Dúvidas, sugestões, feedbacks, etc
 
