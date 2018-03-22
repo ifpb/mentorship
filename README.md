@@ -20,11 +20,15 @@ A monitoria é uma experiência de ensino muito mais generalizada, porém limita
 
 # Quero ser um Mentor
 
-[Instruções sobre como se tornar um mentor](#)
+Todas as informações sobre como se tornar um mentor, bem como outras informações sobre o processo, acesse o link abaixo:
+
+[Instruções sobre como se tornar um mentor](https://github.com/ifpb/mentorship/wiki/Instru%C3%A7%C3%B5es-para-Mentor)
 
 # Quero ser um Pupilo
 
-[Instruções sobre como se tornar um pupilo](#)
+Todas as informações sobre como se tornar um pupilo, bem como outras informações sobre o processo, acesse o link abaixo:
+
+[Instruções sobre como se tornar um pupilo](https://github.com/ifpb/mentorship/wiki/Instru%C3%A7%C3%B5es-para-Pupilos)
 
 # Lista de Mentores
 
