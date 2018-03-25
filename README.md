@@ -21,7 +21,13 @@ A monitoria é uma experiência de ensino muito mais generalizada, porém limita
 <br>
 <br>
 
-# Quero ser um Mentor
+# Como participar do Beta
+
+Como é um projeto novo, decidimos primeiramente abrir ele na fase Beta para testar e aprimorar seu funcionamento. Nessa fase Beta teremos apenas 1 mentor ([Lucas Ferreira](https://github.com/ifpb/mentorship/blob/master/perfis/mentores/lucas_ferreira.md)) que dará mentoria de Javascript + React.
+
+Caso você tenha interesse preencha [esse formulário](https://goo.gl/forms/nBECnDK6W9uGaxRm1). Alguns alunos serão selecionados, quem sabe não será você? :wink:
+
+<!-- # Quero ser um Mentor
 
 Todas as informações sobre como se tornar um mentor, bem como outras informações sobre o processo, acesse o link abaixo:
 
@@ -31,7 +37,7 @@ Todas as informações sobre como se tornar um mentor, bem como outras informaç
 
 Todas as informações sobre como se tornar um pupilo, bem como outras informações sobre o processo, acesse o link abaixo:
 
-[Instruções sobre como se tornar um pupilo](https://github.com/ifpb/mentorship/wiki/Instru%C3%A7%C3%B5es-para-Pupilos)
+[Instruções sobre como se tornar um pupilo](https://github.com/ifpb/mentorship/wiki/Instru%C3%A7%C3%B5es-para-Pupilos) -->
 
 <br>
 <br>
