@@ -13,7 +13,7 @@
 
 * Apresentação dos integrantes
 * Explicação e discussão sobre o funcionamento do processo da mentoria.
-* Mostrado algunns materiais para começar a estudar sobre React
+* Mostrado alguns materiais para começar a estudar sobre React
 * Formação das "duplas" inicias para pair programming
 * Foi marcado uma reunião semanal todas as terças a partir das 16h30
 
