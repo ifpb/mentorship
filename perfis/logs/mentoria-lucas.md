@@ -11,8 +11,6 @@
 
 ## Reunião #1 (07/04/2018)
 
-O que rolou:
-
 * Apresentação dos integrantes
 * Explicação e discussão sobre o funcionamento do processo da mentoria.
 * Mostrado algunns materiais para começar a estudar sobre React
@@ -22,8 +20,6 @@ O que rolou:
 <br>
 
 ## Reunião #2 (11/04/2018)
-
-O que rolou:
 
 Foram apresentados alguns conceitos de React como:
 
