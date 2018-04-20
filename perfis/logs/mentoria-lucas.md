@@ -29,3 +29,15 @@ Foram apresentados alguns conceitos de React como:
 * Estilização no React (formas de usar CSS)
 * Props
 * State
+
+
+## Desafio #1 (18/04/2018)
+
+Foi proposto um pequeno [desafio](https://4q41y03w14.codesandbox.io/) para os pupilos treinarem algumas skills básicas do React, o desafio consiste em:
+1. Criar uma lista de linguagens de programação
+2. Mostrar essas linguagens em uma navbar
+3. Conforme o usuário clique em uma linguagem, a aplicação irá:  
+3.1 Através da API do Github, obter a lista dos repositórios com mais Stars dessa linguagem  
+3.2 Mostrar esses dados organizados na UI
+
+A idéia é que os pupilos tentem fazer o desafio para que na nossa próxima reunião comentarmos junto os códigos (code review).
