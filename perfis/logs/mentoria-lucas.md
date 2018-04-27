@@ -54,7 +54,7 @@ Também foram mostrados as respostas do Desafio #1, e comentamos juntos os resul
 
 ## Desafio #2 (26/04/2018)
 
-Outro [desafio](https://6w016xo803.codesandbox.io/) foi proposto, esse desafio tem o objetivo de fazer os pupilos aprenderem e praticarem na prática as idéias de comunicação entre componentes e também como lidar com formulários no React.
+Outro [desafio](https://6w016xo803.codesandbox.io/) foi proposto, esse desafio tem o objetivo de fazer os pupilos aprenderem na prática a idéia de comunicação entre componentes e também como lidar com formulários no React.
 
 
 **Proposta:**
