@@ -33,6 +33,7 @@ Meu objetivo é ajudar meus pupilos na área de Front End, com ênfase nessas á
 
 ## Pupilos(as)
 
-<!-- * [Pupilo 1](https://github.com/ifpb/mentorship/tree/master/perfis/pupilos/pupilo1.md)
-* [Pupilo 2](https://github.com/ifpb/mentorship/tree/master/perfis/pupilos/pupilo2.md)
-* [Pupilo 3](https://github.com/ifpb/mentorship/tree/master/perfis/pupilos/pupilo3.md) -->
+* [Aaron Santos](https://github.com/ifpb/mentorship/blob/master/perfis/pupilos/aaron_santos.md)
+* Bruno Hofmann
+* [Mauricio de Lira](https://github.com/ifpb/mentorship/blob/master/perfis/pupilos/mauricio_de_lira.md)
+* [Paulo Ferreira](https://github.com/ifpb/mentorship/blob/master/perfis/pupilos/paulo_ferreira.md)
