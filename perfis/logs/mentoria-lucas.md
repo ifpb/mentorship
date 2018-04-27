@@ -41,3 +41,8 @@ Foi proposto um pequeno [desafio](https://4q41y03w14.codesandbox.io/) para os pu
 3.2 Mostrar esses dados organizados na UI
 
 A idéia é que os pupilos tentem fazer o desafio para que na nossa próxima reunião comentarmos junto os códigos (code review).
+
+## Reunião #3 (24/04/2018)
+
+Primeiramente foi solicitado aos pupilos explicar os conceitos vistos na reunião anterior, a idéia é que através de uma explicação eles consigam fixar mais os conteúdos.
+Também foram mostrados as respostas do Desafio #1, e comentamos juntos os resultados fazendo code review.
