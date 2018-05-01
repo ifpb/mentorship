@@ -1,6 +1,6 @@
-# Logs da Mentoria de React com [Lucas](https://github.com/ifpb/mentorship/blob/master/perfis/mentores/lucas_ferreira.md)
+# Logs of React's mentorshio with [Lucas](https://github.com/ifpb/mentorship/blob/master/perfis/mentores/lucas_ferreira.md)
 
-## Alunos envolvidos:
+## Students involved:
 
 * [Aaron Santos](https://github.com/ifpb/mentorship/blob/master/perfis/pupilos/aaron_santos.md)
 * Bruno Hofmann
@@ -9,62 +9,63 @@
 
 <br>
 
-## Reunião #1 (07/04/2018)
+## Meeting #1 (March 7, 2018)
 
-* Apresentação dos integrantes
-* Explicação e discussão sobre o funcionamento do processo da mentoria.
-* Mostrado alguns materiais para começar a estudar sobre React
-* Formação das "duplas" inicias para pair programming
-* Foi marcado uma reunião semanal todas as terças a partir das 16h30
+* Member's introduction
+* Explanation and discussion about the working process of the mentorship.
+* Some resources to start to study React were shown
+* A weekly meetup was scheduled every Tuesday at 4:30 PM
 
 <br>
 
-## Reunião #2 (11/04/2018)
+## Meeting #2 (March 11, 2018)
 
 Foram apresentados alguns conceitos de React como:
 
-* O que é um Componente
-* Class Component e Functional Component
-* Presentational Component e Container Component
-* Estilização no React (formas de usar CSS)
+Some React conpects were shown, such as:
+
+* What is a Component
+* Class Component and Functional Component
+* Presentational Component and Container Component
+* Styles on React (ways of use CSS)
 * Props
 * State
 
 <br>
 
-## Desafio #1 (18/04/2018)
+## Challenge #1 (March 18, 2018)
 
-Foi proposto um pequeno [desafio](https://4q41y03w14.codesandbox.io/) para os pupilos treinarem algumas skills básicas do React, o desafio consiste em:
-1. Criar uma lista de linguagens de programação
-2. Mostrar essas linguagens em uma navbar
-3. Conforme o usuário clique em uma linguagem, a aplicação irá:  
-3.1 Através da API do Github, obter a lista dos repositórios com mais Stars dessa linguagem  
-3.2 Mostrar esses dados organizados na UI
+Was proposed a small [challenge](https://4q41y03w14.codesandbox.io/) for the pupils train some React basic skills, the challenge consisting in:
+1. Create a list of Programming Languages
+2. Show them in a Navbar
+3. As the user clicks on a specific language, the application will:  
+3.1 Through the Github API, obtain a list of the most starred repositories of this language
+3.2 Show some of the repository data on the UI
 
-A idéia é que os pupilos tentem fazer o desafio para que na nossa próxima reunião comentarmos junto os códigos (code review).
-
-<br>
-
-## Reunião #3 (24/04/2018)
-
-Primeiramente foi solicitado aos pupilos explicar os conceitos vistos na reunião anterior, a idéia é que através de uma explicação eles consigam fixar mais os conteúdos.
-Também foram mostrados as respostas do Desafio #1, e comentamos juntos os resultados fazendo code review.
+The idea is that the pupils try to do the challenge so in the next meeting we can comment the code together (through code review)
 
 <br>
 
-## Desafio #2 (26/04/2018)
+## Meeting #3 (March 24, 2018)
+First, was solicited for the pupils to explain the concepts seen on the last meeting. The idea is that through an explanation process they can fix more the content.
+Were also shown the answers of the Challenge #1, and we commented together the results doing code review.
 
-Outro [desafio](https://6w016xo803.codesandbox.io/) foi proposto, esse desafio tem o objetivo de fazer os pupilos aprenderem na prática a idéia de comunicação entre componentes e também como lidar com formulários no React.
+<br>
+
+## Challenge #2 (March 26, 2018)
+
+Another [challenge](https://6w016xo803.codesandbox.io/) was proposed, this challenge has the goal of make the pupils learn by doing de ideas of comunicação between Components and also how to deal with forms in React.
 
 
-**Proposta:**
-O desafio foi inspirado no exemplo da sessão [Thinking in React](https://reactjs.org/docs/thinking-in-react.html) da documentação oficial.
+**Proposal:**
+The challenge was inspired in the example from the [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+section on React oficial docs.
 
-![Imagem do desafio](https://reactjs.org/static/thinking-in-react-mock-1071fbcc9eed01fddc115b41e193ec11-4dd91.png)
+![Challenge image](https://reactjs.org/static/thinking-in-react-mock-1071fbcc9eed01fddc115b41e193ec11-4dd91.png)
 
-A idéia é que a partir de um JSON seja criado uma tabela de produtos, dividindo por nome e preço.  
+The idea is that, from a JSON, a table of products is created, dividing it by name and price.
 JSON:
-```js
+```json
 [
   {category: "Sporting Goods", price: "$49.99", stocked: true, name: "Football"},
   {category: "Sporting Goods", price: "$9.99", stocked: true, name: "Baseball"},
@@ -75,13 +76,15 @@ JSON:
 ];
 ```
 
-Além disso, a aplicação terá as seguintes features:
-1. Um Input que irá filtrar os produtos por nome
-2. Uma caixa de **checkbox** que irá filtrar (ou não) apenas os produtos que estão no Estoque.
+Besides that, the application has the following features:
+1. An Input that will filter the products by name.
+2. An **checkbox** that will filter (or not) just the products that are avaliable in stock.
 3. Todos os produtos que não estão no Estoque deverão ter seu nome destacados pela cor vermelha.
+3. All the products that are not in stock must have their names highlighted by the color red.
 
 
-Links úteis:
-[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-[Forms](https://reactjs.org/docs/forms.html)
+### Useful links:
+
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)  
+[Forms](https://reactjs.org/docs/forms.html)  
 [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
