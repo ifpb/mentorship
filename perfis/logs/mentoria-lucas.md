@@ -1,4 +1,4 @@
-# Logs of React's mentorshio with [Lucas](https://github.com/ifpb/mentorship/blob/master/perfis/mentores/lucas_ferreira.md)
+# Logs of React's mentorship with [Lucas](https://github.com/ifpb/mentorship/blob/master/perfis/mentores/lucas_ferreira.md)
 
 ## Students involved:
 
@@ -20,8 +20,6 @@
 
 ## Meeting #2 (March 11, 2018)
 
-Foram apresentados alguns conceitos de React como:
-
 Some React conpects were shown, such as:
 
 * What is a Component
@@ -39,7 +37,7 @@ Was proposed a small [challenge](https://4q41y03w14.codesandbox.io/) for the pup
 1. Create a list of Programming Languages
 2. Show them in a Navbar
 3. As the user clicks on a specific language, the application will:  
-3.1 Through the Github API, obtain a list of the most starred repositories of this language
+3.1 Through the Github API, obtain a list of the most starred repositories of this language  
 3.2 Show some of the repository data on the UI
 
 The idea is that the pupils try to do the challenge so in the next meeting we can comment the code together (through code review)
@@ -54,7 +52,7 @@ Were also shown the answers of the Challenge #1, and we commented together the r
 
 ## Challenge #2 (March 26, 2018)
 
-Another [challenge](https://6w016xo803.codesandbox.io/) was proposed, this challenge has the goal of make the pupils learn by doing de ideas of comunicação between Components and also how to deal with forms in React.
+Another [challenge](https://6w016xo803.codesandbox.io/) was proposed. This challenge has the goal of make the pupils "learn by doing" some ideas such as comunication between components and how to deal with forms in React.
 
 
 **Proposal:**
@@ -63,7 +61,7 @@ section on React oficial docs.
 
 ![Challenge image](https://reactjs.org/static/thinking-in-react-mock-1071fbcc9eed01fddc115b41e193ec11-4dd91.png)
 
-The idea is that, from a JSON, a table of products is created, dividing it by name and price.
+The idea is that, from a JSON, a table of products is created, dividing it by name and price.  
 JSON:
 ```json
 [
@@ -79,7 +77,6 @@ JSON:
 Besides that, the application has the following features:
 1. An Input that will filter the products by name.
 2. An **checkbox** that will filter (or not) just the products that are avaliable in stock.
-3. Todos os produtos que não estão no Estoque deverão ter seu nome destacados pela cor vermelha.
 3. All the products that are not in stock must have their names highlighted by the color red.
 
 
