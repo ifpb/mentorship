@@ -33,7 +33,7 @@ Some React conpects were shown, such as:
 
 ## Challenge #1 (March 18, 2018)
 
-Was proposed a small [challenge](https://4q41y03w14.codesandbox.io/) for the pupils train some React basic skills, the challenge consisting in:
+Was proposed a small [challenge](https://4q41y03w14.codesandbox.io/) for the pupils train some React basic skills, the challenge consists in:
 1. Create a list of Programming Languages
 2. Show them in a Navbar
 3. As the user clicks on a specific language, the application will:  
